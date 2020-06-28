@@ -1,0 +1,334 @@
+tile.blueShelf.name=Blue Shelf
+tile.greenShelf.name=Green Shelf
+
+tile.sakura.name=Sakura Log
+tile.sakuraLeaves.name=Sakura Leaves
+tile.sakuraPlanks.name=Sakura Planks
+tile.sakuraSapling.name=Sakura Sapling
+
+tile.ConnectedGlassBlock.name=Connected Glass
+tile.connectedGlassWhite.name=Connected Stained Glass White
+tile.connectedGlassMagenta.name=Connected Stained Glass Magenta
+tile.connectedGlassOrange.name=Connected Stained Glass Orange
+tile.connectedGlassBlack.name=Connected Stained Glass Black
+tile.connectedGlassBrown.name=Connected Stained Glass Brown
+tile.connectedGlassGray.name=Connected Stained Glass Gray
+tile.connectedGlassLime.name=Connected Stained Glass Lime
+tile.connectedGlassCyan.name=Connected Stained Glass Cyan
+tile.connectedGlassPink.name=Connected Stained Glass Pink
+tile.connectedGlassPurple.name=Connected Stained Glass Purple
+tile.connectedGlassYellow.name=Connected Stained Glass Yellow
+tile.connectedGlassSilver.name=Connected Stained Glass Light Gray
+tile.connectedGlassLightBlue.name=Connected Stained Glass Light Blue
+tile.connectedGlassGreen.name=Connected Stained Glass Green
+tile.connectedGlassBlue.name=Connected Stained Glass Blue
+tile.connectedGlassRed.name=Connected Stained Glass Red
+
+tile.glassPane.name=Unconnected Glass Pane 
+tile.glassWhite.name=Unconnected Stained Glass Pane White	
+tile.glassMagenta.name=Unconnected Stained Glass Pane Magenta
+tile.glassOrange.name=Unconnected Stained Glass Pane Orange
+tile.glassBlack.name=Unconnected Stained Glass Pane Black
+tile.glassBrown.name=Unconnected Stained Glass Pane Brown
+tile.glassGray.name=Unconnected Stained Glass Pane Gray
+tile.glassLime.name=Unconnected Stained Glass Pane Lime
+tile.glassCyan.name=Unconnected Stained Glass Pane Cyan
+tile.glassPink.name=Unconnected Stained Glass Pane Pink
+tile.glassPurple.name=Unconnected Stained Glass Pane Purple
+tile.glassYellow.name=Unconnected Stained Glass Pane Yellow
+tile.glassSilver.name=Unconnected Stained Glass Pane Light Gray
+tile.glassLightBlue.name=Unconnected Stained Glass Pane Light Blue
+tile.glassGreen.name=Unconnected Stained Glass Pane Green
+tile.glassBlue.name=Unconnected Stained Glass Pane Blue
+tile.glassRed.name=Unconnected Stained Glass Pane Red
+tile.
+
+
+itemGroup.toroblocks=Toro Blocks
+
+itemGroup.toroitems=Toro Items
+
+
+item.blackumbrella.name=Black Umbrella
+item.orangeumbrella.name=Orange Umbrella
+item.limeumbrella.name=Lime Umbrella
+item.greenumbrella.name=Green Umbrella
+item.redumbrella.name=Red Umbrella
+item.magentaumbrella.name=Magenta Umbrella
+item.lightblueumbrella.name=Light Blue Umbrella
+item.silverumbrella.name=Light Gray Umbrella
+item.cyanumbrella.name=Cyan Umbrella
+item.brownumbrella.name=Brown Umbrella
+item.blueumbrella.name=Blue Umbrella
+item.purpleumbrella.name=Purple Umbrella
+item.pinkumbrella.name=Pink Umbrella
+item.grayumbrella.name=Gray Umbrella
+item.shotgunumbrella.name=Shotgun Umbrella
+item.yellowumbrella.name=Yellow Umbrella
+item.whiteumbrella.name=White Umbrella
+
+
+tile.blackRoof.name=Black Roofing
+tile.blackRoofStairs.name=Black Roofing Stairs
+tile.blackRoofSingleSlab.name=Black Roofing Slab
+
+tile.paperWall.name=Translucent Paper Wall Block
+tile.paperWallPane.name=Translucent Paper Wall Pane
+
+tile.Sn0wF10wer.name=Frost Blossom
+item.sn0wf10wer.name=Frost Blossom
+
+item.baton.name=Baton
+item.wateringcan.name=Watering Can
+item.camera.name=Camera
+item.pillbottle.name=Pill Bottle
+item.katana.name=Katana
+item.guitar.name=Ukulele
+item.moonguitar.name=Harp
+
+item.photo.name=Photo
+item.moonball.name=Moon's Silk Ball
+item.lucasball.name=Lucas' Pixelball
+item.chello.name=Chello
+item.conga.name=Ditto
+item.dittoorb.name=Orb?
+item.dittoball.name=Pixelball?
+item.dittoapricorn.name=Apricorn?
+item.dittotm.name=TM #000?
+item.dittostone.name=Stone?
+item.dittofossil.name=Fossil?
+item.dittoberry.name=Berry?
+item.dittopotion.name=Potion?
+item.dittomail.name=PixelMail?
+
+item.springribbonrookie.name=Rookie Spring Ribbon
+item.summerribbonrookie.name=Rookie Summer Ribbon
+item.autumnribbonrookie.name=Rookie Autumn Ribbon
+item.winterribbonrookie.name=Rookie Winter Ribbon
+
+item.springribbonamateur.name=Amateur Spring Ribbon
+item.summerribbonamateur.name=Amateur Summer Ribbon
+item.autumnribbonamateur.name=Amateur Autumn Ribbon
+item.winterribbonamateur.name=Amateur Winter Ribbon
+
+item.springribboninter.name=Intermediate Spring Ribbon
+item.summerribboninter.name=Intermediate Summer Ribbon
+item.autumnribboninter.name=Intermediate Autumn Ribbon
+item.winterribboninter.name=Intermediate Winter Ribbon
+
+item.springribbonpro.name=Pro Spring Ribbon
+item.summerribbonpro.name=Pro Summer Ribbon
+item.autumnribbonpro.name=Pro Autumn Ribbon
+item.winterribbonpro.name=Pro Winter Ribbon
+
+item.springribbonchampion.name=Champion Spring Ribbon
+item.summerribbonchampion.name=Champion Summer Ribbon
+item.autumnribbonchampion.name=Champion Autumn Ribbon
+item.winterribbonchampion.name=Champion Winter Ribbon
+
+item.majortyrianribbon.name=Major Tyrian Ribbon
+item.minortyrianribbon.name=Minor Tyrian Ribbon
+
+tile.RedRose.name=Red Rose
+tile.PurpleRose.name=Purple Rose
+tile.BlueRose.name=Blue Rose
+tile.YellowRose.name=Yellow Rose
+tile.WhiteRose.name=White Rose
+tile.BlackRose.name=Black Rose
+tile.PinkRose.name=Pink Rose
+
+item.FlowerCrown.name=Flower Crown
+item.Locket.name=Locket
+
+item.badgecase.name=Badge Case (Basic)
+item.badgecaseblue.name=Badge Case (Blue)
+item.badgecasered.name=Badge Case (Red)
+item.badgecasegold.name=Badge Case (Gold)
+item.badgecaseleather.name=Badge Case (Leather)
+item.badgecaseorange.name=Badge Case (Orange)
+item.badgecasegreen.name=Badge Case (Green)
+item.badgecasepurple.name=Badge Case (Purple)
+item.badgecasesilver.name=Badge Case (Silver)
+item.badgecasepink.name=Badge Case (Pink)
+item.badgecasemagenta.name=Badge Case (Magenta)
+item.badgecaselime.name=Badge Case (Lime Green)
+item.badgecaselblue.name=Badge Case (Light Blue)
+item.badgecaserainbow.name=Badge Case (Rainbow)
+item.badgecasecyan.name=Badge Case (Cyan)
+
+item.toughgloves.name=Pink Boxing Gloves
+item.skates.name=Roller Skates
+item.boxinggloves.name=Red Boxing Gloves
+item.ringSilver.name=Silver Ring
+item.ringGold.name=Gold Ring
+item.ringDiamond.name=Diamond Ring
+item.ring.name=Ring Box
+item.fencingsabre.name=Fencing Foil
+item.redBoquet.name=Red Bouquet
+item.yellowBoquet.name=Yellow Bouquet
+item.sixDie.name=Six-Sided Dice
+item.twelveDie.name=Twelve-Sided Dice
+item.twentyDie.name=Twenty-Sided Dice
+item.fan.name=Fan
+item.flashlightoff.name=Flashlight
+item.flashlighton.name=Flashlight
+item.newspaper.name=The Toro Times
+
+item.ring1.name=Ring 1
+item.ring2.name=Ring 2
+item.ring3.name=Ring 3
+item.ring4.name=Ring 4
+item.ring5.name=Ring 5
+item.ring6.name=Ring 6
+
+item.microphone.name=Microphone
+item.telescope.name=Telescope
+
+tile.MagicGravel.name=Weightless Gravel
+tile.MagicSand.name=Weightless Sand
+tile.MagicRedSand.name=Weightless Red Sand
+
+item.aureliabadge.name=Bucket Badge (Aurelia)
+item.viridisbadge.name=Oak Badge (Viridis)
+item.carminebadge.name=Fissure Badge (Carmine)
+item.ferritebadge.name=Sight Badge (Ferrite)
+item.cobaltbadge.name=Pearl Badge (Cobalt)
+item.tyrianbadge.name=Dusk Badge (Tyrian)
+item.galenabadge.name=Frost Badge (Galena)
+item.adamasbadge.name=Ascension Badge (Adamas)
+
+tile.nevermeltice.name=Never Melt Ice Block
+
+tile.borderlessGlassBlock.name=Borderless Glass
+tile.borderlessGlassWhite.name=Borderless Stained Glass White
+tile.borderlessGlassMagenta.name=Borderless Stained Glass Magenta
+tile.borderlessGlassOrange.name=Borderless Stained Glass Orange
+tile.borderlessGlassBlack.name=Borderless Stained Glass Black
+tile.borderlessGlassBrown.name=Borderless Stained Glass Brown
+tile.borderlessGlassGray.name=Borderless Stained Glass Gray
+tile.borderlessGlassLime.name=Borderless Stained Glass Lime
+tile.borderlessGlassCyan.name=Borderless Stained Glass Cyan
+tile.borderlessGlassPink.name=Borderless Stained Glass Pink
+tile.borderlessGlassPurple.name=Borderless Stained Glass Purple
+tile.borderlessGlassYellow.name=Borderless Stained Glass Yellow
+tile.borderlessGlassSilver.name=Borderless Stained Glass Light Gray
+tile.borderlessGlassLightBlue.name=Borderless Stained Glass Light Blue
+tile.borderlessGlassGreen.name=Borderless Stained Glass Green
+tile.borderlessGlassBlue.name=Borderless Stained Glass Blue
+tile.borderlessGlassRed.name=Borderless Stained Glass Red
+
+item.pixeldex.name=Pixeldex
+
+tile.delphinium2_blue.name=Blue Delphinium
+tile.delphinium4_blue.name=Blue Delphinium (Alt)
+tile.pansy_blue.name=Blue Pansy
+tile.pansy_liblue.name=Light Blue Pansy
+tile.pansy_lipurple.name=Light Purple Pansy
+tile.multi_1.name=Multi Flower
+tile.multi_2.name=Multi Flower (Alt)
+tile.cosmos_orange.name=Orange Cosmos
+tile.cosmos_pink.name=Pink Cosmos
+tile.delphinium2_pink.name=Pink Delphinium
+tile.delphinium4_pink.name=Pink Delphinium (Alt)
+tile.delphinium2_purple.name=Purple Delphinium
+tile.delphinium4_purple.name=Purple Delphinium (Alt)
+tile.pansy_purple.name=Purple Pansy
+tile.rose_red.name=Red Rose (Old)
+tile.cosmos_white.name=White Cosmos
+tile.daffodils_white.name=White Daffodils
+tile.flower_winter.name=Winter Flower
+tile.daffodils_yellow.name=Yellow Daffodils
+
+item.blankitem1.name=100 Pix
+item.blankitem2.name=1,000 Pix
+item.blankitem3.name=10,000 Pix
+item.blankitem4.name=Pink Diamond
+item.blankitem5.name=Stone Pixelball
+item.blankitem6.name=Romantic Pixelball
+item.blankitem7.name=Hex Nut
+item.blankitem8.name=Rainbow Feather
+item.blankitem9.name=Black Bouquet
+item.blankitem10.name= 
+item.blankitem11.name= 
+item.blankitem12.name= 
+item.blankitem13.name= 
+item.blankitem14.name= 
+item.blankitem15.name= 
+item.blankitem16.name= 
+item.blankitem17.name= 
+item.blankitem18.name= 
+item.blankitem19.name= 
+item.blankitem20.name=
+
+tile.planks_acacia_vertical.name=Vertical Acacia Planks
+tile.planks_big_oak_vertical.name=Vertical Dark Oak Planks
+tile.planks_birch_vertical.name=Vertical Birch Planks
+tile.planks_dblue.name=Dark Blue Planks
+tile.planks_dblue_vertical.name=Vertical Dark Blue Planks
+tile.planks_dpurple.name=Dark Purple Planks
+tile.planks_dpurple_vertical.name=Vertical Dark Purple Planks
+tile.planks_dred.name=Dark Red Planks
+tile.planks_dred_vertical.name=Vertical Dark Red Planks
+tile.planks_green.name=Green Planks
+tile.planks_green_vertical.name=Vertical Green Planks
+tile.planks_jungle_vertical.name=Vertical Jungle Planks
+tile.planks_oak_vertical.name=Vertical Oak Planks
+tile.planks_spruce_vertical.name=Vertical Spruce Planks
+tile.planks_yellow.name=Yellow Planks
+tile.planks_yellow_vertical.name=Vertical Yellow Planks
+tile.stonebrick_lbrown.name=Brown Stone Brick
+tile.red_roofing.name=Red Roofing Tiles
+tile.blue_roofing.name=Blue Roofing Tiles
+tile.lblue_roofing.name=Light Blue Roofing Tiles
+tile.white_roofing.name=White Roofing Tiles
+tile.brown_roofing.name=Brown Roofing Tiles
+
+//Do the STUPID FUCKING Clays
+
+tile.darkredstainedclay.name=Dark Red Stained Clay
+tile.darkbluestainedclay.name=Dark Blue Stained Clay
+tile.pastelbluestainedclay.name=Pastel Blue Stained Clay
+tile.pastelredstainedclay.name=Pastel Red Stained Clay
+tile.darkorangestainedclay.name=Dark Orange Stained Clay
+tile.goldstainedclay.name=Gold Stained Clay
+tile.lightbrownstainedclay.name=Light Brown Stained Clay
+tile.navybluestainedclay.name=Navy Blue Stained Clay
+tile.darkbrownstainedclay.name=Dark Brown Stained Clay
+tile.brightwhitestainedclay.name=Bright White Stained Clay
+tile.lightyellowstainedclay.name=Light Yellow Stained Clay
+tile.lightredstainedclay.name=Light Red Stained Clay
+tile.darkpurplestainedclay.name=Dark Purple Stained Clay
+tile.lightpinkstainedclay.name=Light Pink Stained Clay
+tile.hotpinkstainedclay.name=Hot Pink Stained Clay
+tile.lightpurplestainedclay.name=Light Purple Stained Clay
+tile.lightgreenstainedclay.name=Light Green Stained Clay
+tile.turqoisestainedclay.name=Turquoise Stained Clay
+tile.lighterbluestainedclay.name=Lighter Blue Stained Clay
+tile.unconnected_lantern.name=Connected Sea Lantern
+
+tile.mesh.name=Mesh Wire
+tile.meshpane.name=Mesh Wire Pane
+item.origami1.name=Pikachu Origami Figure
+item.origami2.name=Kibo Origami Figure
+item.origami3.name=Swanna Origami Figure
+item.roundfan1.name=White Round Fan
+item.roundfan2.name=Red Round Fan
+item.roundfan3.name=Decorative Round Fan
+item.wishmaker1.name=Kibo Festival Wishmaker (Open)
+item.wishmaker2.name=Kibo Festival Wishmaker (Closed)
+item.wishmaker3.name=Kibo Festival Wishmaker (1/7)
+item.wishmaker4.name=Kibo Festival Wishmaker (2/7)
+item.wishmaker5.name=Kibo Festival Wishmaker (3/7)
+item.wishmaker6.name=Kibo Festival Wishmaker (4/7)
+item.wishmaker7.name=Kibo Festival Wishmaker (5/7)
+item.wishmaker8.name=Kibo Festival Wishmaker (6/7)
+item.talisman1.name=Kosazuke Omamori
+item.talisman2.name=Hada Omamori
+item.talisman3.name=Shōbai Hanjō Omamori
+item.talisman4.name=Enmusubi Omamori
+item.talisman5.name=Katsumori Omamori 
+item.fan2.name=Decorative Floral Fan
+item.fan3.name=Decorative Pichu Fan
+item.fan4.name=Decorative Cinnabar Fan
+item.fan5.name=Decorative Fan
+item.flute.name=Flute

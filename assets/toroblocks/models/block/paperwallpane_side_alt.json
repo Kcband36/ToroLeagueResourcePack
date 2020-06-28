@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side_alt",
+    "textures": {
+        "edge": "toroblocks:blocks/paperwall_top",
+        "pane": "toroblocks:blocks/paperwall"
+    }
+}

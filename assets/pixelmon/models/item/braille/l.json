@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "pixelmon:blocks/braille/L",
+    "side": "pixelmon:blocks/braille/L"
+  }
+}
