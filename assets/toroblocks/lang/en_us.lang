@@ -305,6 +305,8 @@ tile.lightgreenstainedclay.name=Light Green Stained Clay
 tile.turqoisestainedclay.name=Turquoise Stained Clay
 tile.lighterbluestainedclay.name=Lighter Blue Stained Clay
 tile.unconnected_lantern.name=Connected Sea Lantern
+tile.permatilled.name=Tilled Farmland (Unbreakable)
+
 
 tile.mesh.name=Mesh Wire
 tile.meshpane.name=Mesh Wire Pane
